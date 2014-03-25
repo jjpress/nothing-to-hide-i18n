@@ -14,7 +14,7 @@
 	"dialog": {
 		"fund": {
 			"title": "THANK YOU FOR PLAYING THIS DEMO!",
-			"staytuned": [
+			"staytuned": 
 				"Be excited. This wasn't even a tenth of what the full game will be!",
 				"On the downside... this wasn't even a tenth of what the full game will be.",
 				"We've got a long way to go, and we need your help."
