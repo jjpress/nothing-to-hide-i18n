@@ -1,261 +1,260 @@
-{
-	"translator": "NCase",
+translator": "NCase",
 	"app": {
-		"name": "Nothing To Hide",
-		"subtitle": "an anti-stealth game where you are your own watchdog.",
-		"longtitle": "Nothing To Hide: an anti-stealth game where you are your own watchdog."
+		"name": "Ništa da krijem",
+		"subtitle": "anti-stealth igrica gde sam sebe čuvaš.",
+		"longtitle": "Ništa da krijem: anti-stealth igrica gde si sam svoj čuvar."
 	},
 	"menu": {
-		"play": "PLAY",
-		"support": "SUPPORT & SHARE",
+		"play": "POKRENI",
+		"support": "PODRŽI & PODELI",
 		"uncopyright": "UNCOPYRIGHT",
-		"credits": "CREDITS"
+		"credits": "ZASLUGE"
 	},
 	"dialog": {
 		"fund": {
-			"title": "THANK YOU FOR PLAYING THIS DEMO!",
+			"title": "HVALA ŠTO STE ODIGRALI DEMO!",
 			"staytuned": [
-				"Be excited. This wasn't even a tenth of what the full game will be!",
-				"On the downside... this wasn't even a tenth of what the full game will be.",
-				"We've got a long way to go, and we need your help."
+				"Uzbudljivo, zar ne? Ovo nije ni desetina onoga što vas očekuje!",
+				"To što ste videli nije ni deseti deo igrice kakva če biti kads je završimo.",
+				"Pred nama je dugačak put, i potrebna je vaša pomoć."
 			],
-			"backthisgame": "back this game",
+			"backthisgame": "podrži ovu igru",
 			"whycrowdfunding": [
-				"Why crowdfunding? Well, this game is open source and uncopyrighted.",
-				"We're built for the public, and backed by the public!",
-				"And I know this is kind of ironic, being a satire of social media and all, but..."
+				"Zašto mikrodonacije? Jednostavno, ovo je igra otvorenog koda i ne zadržavamo autorska prava.",
+				"Pravimo je za publiku, i publika treba da nam pomogne!",
+				"Smešno je jer je u igri reč o ironičnom stavu prema društvenim medijima, ipak..."
 			],
-			"thanksdissident": "Thanks again, you dissident, you!"
+			"thanksdissident": "Hvala još jednom, vama disidentima, svima!"
 		},
 		"uncopyright": {
-			"title": "NOTHING TO HIDE HAS NOTHING TO HIDE",
+			"title": "NIŠTA DA KRIJEM; NEMAM JA ŠTA DA KRIJEM",
 			"linkdescription": [
-							"We're",
-							"<a href='%s' target='_blank'>open source</a>,",
-							"<a href='%s' target='_blank'>openly designed</a>,",
-							"and with your help,",
-							"<a href='%s' target='_blank'>openly funded</a>.",
-							"But most of all, uncopyrighted. That's right -",
-							"<a href='%s' target='_blank'>Zero Rights Reserved</a>."
+							"Mi smo",
+							"<a href='%s' target='_blank'>otvorili kod</a>,",
+							"<a href='%s' target='_blank'>otvorili dizajn</a>,",
+							"i uz tvoju pomoć,",
+							"<a href='%s' target='_blank'>otvoramo finansiranje</a>.",
+							"Ali najbitnije od svega, ovo je 'uncopyrighted'. Tako je -",
+							"<a href='%s' target='_blank'>Nula prava je zadržano</a>."
 			],
-			"youarewelcometo": "You're totally welcome to:",
-			"piratethisgame": "- \"Pirate\" this game.",
-			"recordandmonetize": "- Record and monetize Let's Plays.",
-			"rehostthisgame": "- Re-host this game on your website.",
-			"useartmusiccode": "- Use the art/music/code in your own projects.",
+			"youarewelcometo": "Totalno ste dobrodošli da:",
+			"piratethisgame": "- \"Piratizujete\" ovu igru.",
+			"recordandmonetize": "- Snimite i monetizujete tehničku dokumentaciju.",
+			"rehostthisgame": "- Hostujete ovu igru na svom sajtu.",
+			"useartmusiccode": "- Koristite umetnost/muziku/kod za sopstvene projekte.",
 			"makeamod": [
-				"- Make a mod where the main character is replaced with Princess Luna from the",
-				"hit cartoon show, My Little Pony: Friendship Is Magic.",
-				"Well, actually, you'll probably get a cease and desist from Hasbro for that.",
-				"But not from me."
+				"- Pokreni mod gde je glavni karakter Princeza Luna iz hit crtaća",
+				"Moj mali poni: Prijateljstvo je čarolija.",
+				"Zapravo, verovatno će vas u tome omesti i zaustaviti Hasbro.",
+				"Ali ja svakako neću."
 			],
-			"givinguppower": "By giving up \"power\" over our art, our art can have more power."
+			"givinguppower": "Ako predate \"moć\" našoj umetnosti, naša umetnost stiče veću snagu."
 		},
 		"credits": {
-			"withthehelp": "WITH THE HELP OF HUNDREDS"
+			"withthehelp": "UZ POMOĆ STOTINA"
 		}
 		
 	},
 	"command": {
-		"backtomainmenu": "BACK TO MAIN MENU",
-		"resumegame": "RESUME GAME",
-		"resetlevel": "RESET LEVEL",
-		"pause": "PAUSE",
-		"skiplevel": "SKIP LEVEL"
+		"backtomainmenu": "POVRATAK NA GLAVNI MENI",
+		"resumegame": "NASTAVI IGRU",
+		"resetlevel": "PONOVO POKRENI NIVO",
+		"pause": "PAUZA",
+		"skiplevel": "PRESKOČI NIVO"
 	},
 	"game": {
 		"general":{ 
-			"panopticonpaused": "PANOPTICON PAUSED",
-			"levelselect": "Level Select:",
-			"intro": "INTRO",
-			"ending": "ENDING",
-			"sharegame": "Share Game:"
+			"panopticonpaused": "PANOPTICON PAUZIRAN",
+			"levelselect": "Odaberi nivo:",
+			"intro": "UVOD",
+			"ending": "ZAVRŠETAK",
+			"sharegame": "Podeli igru:"
 		},
 		"thewall":{
-			"posted": "posted",
-			"justnow": "just now",
-			"minutesago": "one minute ago",
+			"posted": "objavljeno",
+			"justnow": "upravo sada",
+			"minutesago": "pre 1 minuta",
 			"minutesago_plural": "__count__  minutes ago",
 			"secondsago": "one second ago",
 			"secondsago_plural": "__count__  seconds ago"
 		}
 	},
 	"character":{
-		"poppy": "Poppy",
-		"poppygardner": "Poppy Gardner",
-		"georgegardner": "George Gardner",
-		"nobody": "Nobody"
+		"poppy": "Mara",
+		"poppygardner": "Mara Baštovanović",
+		"georgegardner": "Đorđe Baštovanović",
+		"nobody": "Niko"
 	},
 	"cutscene":{
 		"intro":[
-				"Poppy?",
-				"Hey sweetie. Please don't be sad.",
-				"It's really hurting my popularity ranking.",
-				"The first un-secret ballot election is coming up. It's very important to Daddy's career, so I need you to post more happy pictures of yourself to The Wall. At least 400 per day, okay?",
-				"Please, Poppy? I don't want the voters to think I'm a bad parent.",
-				"Well, goodnight! <span>#DaddyDaughterMoment</span>",
-				"I... I have to get out of here...",
-				"Dad will be better off without me. His Popularity Metrics&trade;, too."
+				"Maro?",
+				"Hej dušo. Molim te ne budi tužna.",
+				"To zaista šteti mojoj popularnosti.",
+				"Prvo ne-tajno glasanje se približava. To je veoma bitno za tatinu karijeru, trebalo bi da ostavljaš na Zid više slika na kojima si srećna i nasmejana. Najmanje 400 dnevno, razumeš?",
+				"Molim te, Maro? Ne želim da glasači misle da sam loš roditelj.",
+				"Onda, laku noć!  <span>#OtaciKćerkaTrenutak</span>",
+				"I... ijao ja moram da zbrišem odavde...",
+				"Tati će biti bolje bez mene. Njegovoj Popularnosti & profitu takođe."
 		],
 		"end":[
-			"please don't be dead oh god oh god oh god oh god oh god",
-			"Okay. Okay okay. Idea.",
-			"Sometimes Daddy wakes me up like this. Maybe this will work...",
-			"<span>#DaddyDaughterMoment</span>",
-			"Ow! Pain on the face! You...",
-			"i'm sorry",
-			"...saved my life! Don't apologize, yo!",
-			"i'm sorry for being sorry",
-			"Hold up, are we on The Wall?...",
-			"\"Poppy Gardner posted 1 minute ago. Sometimes Daddy wakes me up like this. Maybe this will work...\"",
-			"Oh. Oh wow. Minister Gardner does that to his own... wow.",
-			"<i>Wellllllllll</i> if it makes you feel better, your dad's psychologically and physically abusive to the rest of the nation, too.",
-			"\"Watch what you say & hear & watch & <i>think.\"</i><br>When we got no place to hide, we got to hide our true selves. ",
-			"I can help you escape him.",
-			"In fact, I got an app for that!",
-			"Exploit! Made it myself. Just tap this screen here, and you'll be erased from The Wall. You'll be a Nobody, just like me.",
-			"Stop acting for the camera. Start being yourself."
+			"nemoj da budeš mrtav o bože o bože o bože o bože",
+			"Okej. Okek okej. Ideja.",
+			"Ponekad me tata ovako budi. Možda će upaliti...",
+			"<span>#OtaciKćerkaTrenutak</span>",
+			"Auj! Boli me! Ti...",
+			"Žao mi je",
+			"...spasio si mi život! Mojne mi se izvinjavaš!",
+			"Žao mi je što mi je bilo žao",
+			"Čekaj, jesmo li mi to na Zidu?...",
+			"\"Mara Baštovanović posted 1 minute ago. Ponekad me tata ovako budi. Možda će upaliti...\"",
+			"Au. Au jbt. Ministar Baštovanović radi to svojoj rođenoj... wow.",
+			"<i>Pa ovaaaaaj....</i> ako će ti od toga biti lakše, tvoj tata je psihički i fizički zlostavljao i ostatak nacije, isto!",
+			"\"Pazi šta govoriš, šta slušaš, šta gledaš i <i>misliš.\"</i><br>Kada nemamo gde da se sakrijemo, moramo da skrivamo svoje pravo lice. ",
+			"Mogu da ti pomognem da pobegneš od njega.",
+			"U stvari, imam mob/web app za to!",
+			"Exploit! Sam sam ga napravio. Samo pritisni ekran ovde, i bićeš izbrisana za Zida. Postaćeš Niko, baš kao ja.",
+			"Prestani da poziraš za publiku. Počni da budeš svoja."
 		]
 	},
 	"dialogue": {
 		"postedjustnow": "posted just now",
 		"level": {
 			"intro": {
-				"nobodyNeedsMe":"Nobody needs me...",
-				"runningAway": "Guess I'm running away to Canada, then."
+				"nobodyNeedsMe":"Nikome nisam potreban...",
+				"runningAway": "Onda najbolje da pobegnem u Kanadu."
 			},
 			"pickup": {
-				"lookMySmile": "Oh… there's Daddy's campaign post. Look at my smile. :)",
-				"disciplinedToSmile": "He disciplined me when my smile didn't look genuine enough. :)"
+				"lookMySmile": "Oh… tu je tatin post iz kampanje. Vidi moj osmeh. :)",
+				"disciplinedToSmile": "Disciplinovao je da se smešim dok moj osmeh nije počeo da izgleda prirodno. :)"
 			},
 			"big_puzzle": {
-				"iWonder": "I wonder... if these laws against upsetting people... upset people?"
+				"iWonder": "Pitam se... ima li zakona protiv uznemiravanja ljudi... uzmenirenih ljudi?"
 			},
 			"conveyor": {
-				"myOwnWatchman": "I wonder... if I'm my own watchman... am I hiding from myself?"
+				"myOwnWatchman": "Pitam se... ako moram sam na sebe da pazim... da li se ja krijem od sebe?"
 			},
 			"conveyor_2": {
-				"whyQuestionMarks": "I wonder... why I'm using so many ellipses and question marks?",
-				"havingAPrivateThought": "I think... this is what having a private thought feels like. Feels weird."
+				"whyQuestionMarks": "Pitam se... zašto koristim toliko mnogo upitnika?",
+				"havingAPrivateThought": "Mislim... ovako izgleda kada misliš za sebe, privatne misli. Uvrnuto."
 			},
 			"power": {
-				"whatWasNoise": "What... what was that noise?",
-				"looksUncomfortable": "Oh my... that looks uncomfortable."
+				"whatWasNoise": "Šta... kakva je to buka?",
+				"looksUncomfortable": "Auuu... ovo je nezgodno."
 			},
 			"power_puzzle": {
-				"poorNobodyOnlyIEye" : "Poor 'Nobody'. I think he picked up the only iEye that was looking at him.",
-				"neverDoneThat" : "Glad I've never done that."
+				"poorNobodyOnlyIEye" : "Jadan 'Niko'. Mislim da je jedino shvatio da ga iEye traži.",
+				"neverDoneThat" : "Drago mi je da to nisi nikad uradio."
 			},
 			"nobody_needs_you": {
-				"onceInMyLife": "For once in my life... I don't care how others will judge me! I... I have to help!",
-				"nobodyNeedsMe": "'Nobody' needs me!"
+				"onceInMyLife": "Jednom u svom životu... Ne zanima me šta će drugi misliti o meni! Ja... ja moram da pomognem!",
+				"nobodyNeedsMe": "'Nikome nisam potreban!"
 			}
 		}
 	},
 	"images": {
 		"general":{
 			"controls": {
-				"scrolldown": "SCROLL DOWN",
-				"mouse": "¬MOUSE¬",
-				"keys": "¬¬KEYS¬¬"
+				"scrolldown": "SPUSTI SE DOLE",
+				"mouse": "¬MIŠ¬",
+				"keys": "¬¬TASTATURA¬¬"
 			},
-			"or": "¬OR¬",
+			"or": "¬ILI¬",
 			"tweet": "TWEET",
 			"share": "SHARE",
-			"THEWALL": "THE WALL"
+			"THEWALL": "ZID"
 			
 		},
 		"propaganda": {
 			"dont_help_hiders": {
-				"donthelp1": "DON'T HELP",
-				"donthelp2": "HIDERS",
-				"fourthAmendment1": "but the fourth",
-				"fourthAmendment2": "amendment",
-				"fourthAmendment3": "protects"
+				"donthelp1": "NEMOJ DA POMOGNEŠ",
+				"donthelp2": "ONIMA KOJI SE KRIJU",
+				"fourthAmendment1": "ali Četvrti",
+				"fourthAmendment2": "amandman",
+				"fourthAmendment3": "štiti"
 			},
 			"error": {
 				"ERROR": "ERROR:",
 				"AudienceNotFound1": "`TARGETED_AUDIENCE`",
 				"AudienceNotFound2": "CANNOT BE FOUND",
-				"MeantForNobody1": "&gt; this wall is meant",
-				"MeantForNobody2": "&gt; for NOBODY"
+				"MeantForNobody1": "&gt; ovaj zid namenjen je",
+				"MeantForNobody2": "&gt; NIKOME."
 			},
 			"intro_pics": {
 				"posted4DaysAgo": "posted 4 days ago",
-				"Message1": "Thank you for 4 billion followers! I'm so",
-				"Message2": "happy! Vote for my dad in the un-secret",
-				"Message3": "ballot! So happy. Haha! Ha. ha..."
+				"Message1": "Hvala za 4 milijarde folovera! Toliko sam",
+				"Message2": "srećna! Glasajte za mog tatu na ne-tajnom",
+				"Message3": "glasanju! Baš srećna. Haha! Ha. ha..."
 			},
 			"needs_dummy": {
-				"YesMySignal1": "YES, MY SIGNAL",
-				"YesMySignal2": "DEPLOYS",
-				"YesMySignal3": "FOR ALL THE",
-				"YesMySignal4": "GIRLS &amp; BOYS!"
+				"YesMySignal1": "DA, MOJ SIGNAL",
+				"YesMySignal2": "OBUHVATA",
+				"YesMySignal3": "SVE",
+				"YesMySignal4": "DEVOJČICE I DEČAKE!"
 			},
 			"nobody_messes": {
 				"posted4DaysAgo": "posted 4 days ago",
-				"THEWALL": "THE WALL",
-				"gotRidSecretBallot1": "Aw yiss, 'bout time we got rid of the secret ballot!",
-				"gotRidSecretBallot2": "Let's expose all those un-Americans who have",
-				"gotRidSecretBallot3": "something to hide. #votegardner",
-				"NobodyMessesWith1": "Nobody messes with the Ministry!",
-				"NobodyMessesWith2": "Nobody cares for privacy!",
-				"NobodyMessesWith3": "Nobody! ^_^"
+				"THEWALL": "ZID",
+				"gotRidSecretBallot1": "Aw yiss, vreme je da se rešimo ovog tajnog glasanja",
+				"gotRidSecretBallot2": "Hajde da eksponiramo sve one anti-Amerikance koji imaju",
+				"gotRidSecretBallot3": "šta da kriju. #ZaokružiBaštovanovića",
+				"NobodyMessesWith1": "Niko se ne kači sa Ministarstvom!",
+				"NobodyMessesWith2": "Niko se ne brine za privatnost!",
+				"NobodyMessesWith3": "Niko! ^_^"
 			},
 			"nobody_the_wall": {
-				"THEWALL": "THE WALL"
+				"THEWALL": "ZID"
 			},
 			"nobody_the_wall_2": {
-				"THEWALL": " THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL"
+				"THEWALL": "ZID ZID ZID ZID ZID ZID ZID ZID ZID ZID ZID "
 			},
 			"pickup_gardner": {
-				"ProtectorPatriotPop": "PROTECTOR. PATRIOT. POP.",
-				"VoteGardner1": "WITH YOUR UN-SECRET BALLOT",
-				"VoteGardner2": "VOTE GARDNER"
+				"ProtectorPatriotPop": "ČUVAR. PATRIOTA. POP.",
+				"VoteGardner1": "NA JAVNOM GLASANJU",
+				"VoteGardner2": "GLASAJTE ZA BAŠTOVANOVIĆA"
 			},
 			"pickup_lookout": {
-				"LookOut1": "LOOK OUT FOR",
-				"LookOut2": "YOURSELF"
+				"LookOut1": "POTRAŽI",
+				"LookOut2": "SEBE"
 			},
 			"puzzle_mock": {
-				"RememberToBe": "REMEMBER TO BE",
-				"POPULAR": "POPULAR",
-				"PRETTY": "PRETTY",
-				"PATRIOTIC": "PATRIOTIC",
-				"HowSelfWorth1": "HOW ELSE CAN YOU",
-				"HowSelfWorth2": "MEASURE YOUR",
-				"HowSelfWorth3": "SELF-WORTH?"
+				"RememberToBe": "SETI SE DA TI TREBA",
+				"POPULAR": "POPULARNOST",
+				"PRETTY": "LEPOTA",
+				"PATRIOTIC": "PATRIOTIZAM",
+				"HowSelfWorth1": "KAKO INAČE DA",
+				"HowSelfWorth2": "IZMERIŠ KOLIKO",
+				"HowSelfWorth3": "VREDIŠ?"
 			},
 			"puzzle_psa": {
-				"PatriotPSA1": "PATRIOT SERVICE",
-				"PatriotPSA2": "ANOUNCEMENT",
+				"PatriotPSA1": "PATRIOTSKI SERVIS",
+				"PatriotPSA2": "OBAVEŠTENJE",
 				
-				"WatchWhatYouSay1": "WATCH",
-				"WatchWhatYouSay2": "WHAT YOU",
-				"WatchWhatYouSay3": "SAY",
+				"WatchWhatYouSay1": "PAZI",
+				"WatchWhatYouSay2": "ŠTA",
+				"WatchWhatYouSay3": "GOVORIŠ",
 				
-				"WatchWhatYouHear1": "WATCH",
-				"WatchWhatYouHear2": "WHAT YOU",
-				"WatchWhatYouHear3": "HEAR",
+				"WatchWhatYouHear1": "PAZI",
+				"WatchWhatYouHear2": "ŠTA / KOGA",
+				"WatchWhatYouHear3": "SLUŠAŠ",
 
-				"WatchWhatYouWatch1": "WATCH",
-				"WatchWhatYouWatch2": "WHAT YOU",
-				"WatchWhatYouWatch3": "WATCH"
+				"WatchWhatYouWatch1": "PAZI",
+				"WatchWhatYouWatch2": "ŠTA",
+				"WatchWhatYouWatch3": "GLEDAŠ"
 			},
 			"questions": {
-				"DoNotAsk": "DO NOT ASK BACK",
-				"KeepYouSafe": "TO KEEP YOU SAFE, THE MINISTRY KEEPS SECRETS",
-				"EspeciallyYours": "ESPECIALLY YOURS!",
+				"DoNotAsk": "NE POSTAVLJAJ PITANJA",
+				"KeepYouSafe": "DA BISTE VI BILI BEZBEDNI, MINISTARSTVO ČUVA TAJNE",
+				"EspeciallyYours": "NAROČITO TVOJE!",
 				"Q:": "Q:",
-				"SafeFromWhat": "SAFE FROM WHAT?",
+				"SafeFromWhat": "BEZBEDNI OD ČEGA?",
 				"A:": "A:",
-				"ThatsSecret": "THAT'S SECRET."
+				"ThatsSecret": "TO JE TAJNA."
 			},
 			"smile": {
-				"SmileForTheCam": "SMILE FOR THE CAMERA",
-				"HidingIsCriminal": "HIDING IS CRIMINAL",
-				"OnlyCriminals": "ONLY CRIMINALS HAVE SOMETHING TO HIDE",
-				"StayAlwaysInSight": "ALWAYS STAY IN SIGHT OF AT LEAST ONE °EYE"
+				"SmileForTheCam": "NASMEŠI SE ZA KAMERU",
+				"HidingIsCriminal": "SKRIVANJE JE KRIMINAL",
+				"OnlyCriminals": "SAMO KRIMINALCI IMAJU ŠTA DA KRIJU",
+				"StayAlwaysInSight": "UVEK OSTANI U BLIZINI BAREM JEDNOG °OKA"
 			},
 			"stream_wall": {
 				"StatusLeft": "STATUS:      STATUS:      STATUS:",
@@ -264,83 +263,83 @@
 				"SecureRight": "SECURE       SECURE       SECURE"
 			},
 			"stream_wall_2": {
-				"CriminalNeutralized": "CRIMINAL NEUTRALIZED",
-				"Name1": "NAME:",
-				"Name2": "&quot;NOBODY&quot;",
-				"Time1": "TIME:",
+				"CriminalNeutralized": "KRIMINALAC NEUTRALIZOVAN",
+				"Name1": "IME:",
+				"Name2": "&quot;NIKO&quot;",
+				"Time1": "VREME:",
 				"Time2": "2044 PST (1 MIN AGO)",
-				"Crime1": "CRIME:",
-				"Crime2": "HIDING FROM CAMERA",
+				"Crime1": "PREKRŠAJ:",
+				"Crime2": "SKRIVANJE OD KAMERE",
 				"Status1": "STATUS:",
-				"Status2": "TRANQUILIZED (POSSIBLE OVERDOSE)"
+				"Status2": "UMRTVLJEN (MOGUĆE PREDOZIRANJE)"
 			},
 			"tut_carpet": {
-				"DeviceInactiveCarpet": "RE: DEVICE INACTIVE ON CARPET",
+				"DeviceInactiveCarpet": "RE: UREĐAJ NEAKTIVAN NA TEPIHU",
 				"FeatureNotBug": "IT'S NOT A BUG, IT'S A FEATURE.",
-				"IssueClosed": "[ISSUE MARKED AS CLOSED]"
+				"IssueClosed": "[OZNAČI PROBLEM KAO REŠEN]"
 			},
 			"tut_darker": {
-				"LookForLines1": "LOOK FOR THE",
-				"LookForLines2": "DARKER",
-				"LookForLines3": "LINES"
+				"LookForLines1": "POTRAŽI",
+				"LookForLines2": "TAMNIJE",
+				"LookForLines3": "LINIJE"
 			},
 			"tut_pickup": {
-				"MovingIEyes": "MOVING °EYES",
-				"SpaceKey": "SPACE KEY",
-				"Or": "- - - - - - OR - - - - - - ",
-				"ClickCircle1": "CLICK",
-				"ClickCircle2": "CIRCLE",
-				"ToPickupDrop": "TO PICKUP/DROP",
-				"ThanksForSurveillance1": "THANK YOU FOR",
-				"ThanksForSurveillance2": "PARTICIPATING",
-				"ThanksForSurveillance3": "IN YOUR OWN",
-				"ThanksForSurveillance4": "SURVEILLANCE"
+				"MovingIEyes": "POKRETNE °OČI",
+				"SpaceKey": "PRITISNI SPACE",
+				"Or": "- - - - - - ili - - - - - - ",
+				"ClickCircle1": "KLIKNI",
+				"ClickCircle2": "KRUG",
+				"ToPickupDrop": "DA POKUPIŠ/ISPUSTIŠ",
+				"ThanksForSurveillance1": "HVALA NA",
+				"ThanksForSurveillance2": "UČESTVOVANJU",
+				"ThanksForSurveillance3": "U SVOM SOPSTVENOM",
+				"ThanksForSurveillance4": "PRISLUŠKIVANJU I NADZORU"
 			},
 			"tut_power": {
-				"ActiveSlidewalks1": "SOME °EYES",
-				"ActiveSlidewalks2": "WILL ACTIVATE",
-				"ActiveSlidewalks3": "SOME SLIDEWALKS",
-				"ActiveSlidewalks4": "Only when they see",
-				"ActiveSlidewalks5": "SOMEBODY"
+				"ActiveSlidewalks1": "NEKE °OČI",
+				"ActiveSlidewalks2": "AKTIVIRAJU",
+				"ActiveSlidewalks3": "ODREĐENE POKRETNE STEPENICE",
+				"ActiveSlidewalks4": "Samo kada spaze",
+				"ActiveSlidewalks5": "NEKOGA"
 			},
 			"tut_reminder": {
-				"StayInSight": "STAY IN SIGHT"
+				"StayInSight": "OSTANI VIDLJIV"
 			},
 			"tut_slidewalk": {
-				"SLIDEWALK": "SLIDEWALK",
-				"AvoidUsingLegs": "A REVOLUTIONARY NEW WAY TO AVOID USING YOUR LEGS"
+				"SLIDEWALK": "POKRETNE STEPENICE",
+				"AvoidUsingLegs": "NOVI REVOLUCIONARAN NAČIN DA NE KORISTIŠ SVOJE NOGE"
 			},
 			"tut_slow": {
-				"SlowDown": "SLOW DOWN",
-				"ForNarrowPaths": "For narrow paths",
-				"ShiftKey": "SHIFT KEY",
-				"OR": "- - - - - - - OR - - - - - - -",
-				"MoveMouseSlowly1": "MOVE MOUSE",
-				"MoveMouseSlowly2": "SLOWLY"
+				"SlowDown": "USPORI",
+				"ForNarrowPaths": "Za uzane staze",
+				"ShiftKey": "SHIFT",
+				"OR": "- - - - - - - ili - - - - - - -",
+				"MoveMouseSlowly1": "POMERI MIŠA",
+				"MoveMouseSlowly2": "POLAKO"
 			},
 			"tut_walk": {
-				"Walking": "WALKING",
-				"ArrowKeys1": "ARROW",
-				"ArrowKeys2": "KEYS",
-				"OR": "- - - - - OR - - - - - - ",
-				"WalkingMouse1": "CLICK",
-				"WalkingMouse2": "&amp; HOLD",
-				"WalkingMouse3": "MOUSE",
-				"LowTechTransportation1": "A FORM OF LOW-TECH",
-				"LowTechTransportation2": "TRANSPORTATION"
+				"Walking": "HODANJE",
+				"ArrowKeys1": "STRELICA",
+				"ArrowKeys2": "TATSTATURA",
+				"OR": "- - - - - ili - - - - - - ",
+				"WalkingMouse1": "KLIK",
+				"WalkingMouse2": "&amp; ZADRŽI",
+				"WalkingMouse3": "MIŠ",
+				"LowTechTransportation1": "LOW-TECH",
+				"LowTechTransportation2": "TRANSPORT"
 			},
 			"unsecret_ballot": {
-				"WrongChoice1": "WRONG CHOICE",
-				"WrongChoice2": "WRONG CHOICE",
-				"GARDNER": "GARDNER",
-				"WrongChoice3": "WRONG CHOICE",
-				"WrongChoice4": "WRONG CHOICE",
-				"RemberCantHide1": "REMEMBER...",
-				"RemberCantHide2": "YOU CAN'T HIDE",
-				"RemberCantHide3": "YOUR UN-SECRET BALLOT. SO",
-				"RememberVoteWinner1": "REMEMBER...",
-				"RememberVoteWinner2": "TO VOTE FOR",
-				"RememberVoteWinner3": "THE WINNER"
+				"WrongChoice1": "POGREŠAN ODABIR",
+				"WrongChoice2": "POGREŠAN ODABIR",
+				"GARDNER": "BAŠTOVANOVIĆ",
+				"WrongChoice3": "POGREŠAN ODABIR",
+				"WrongChoice4": "POGREŠAN ODABIR",
+				"RemberCantHide1": "SETI SE...",
+				"RemberCantHide2": "NE MOŽEŠ SAKRITI",
+				"RemberCantHide3": "SVOJ NE-TAJNI GLAS NA IZBORIMA. ZATO",
+				"RememberVoteWinner1": "ZAPAMTI DA TREBA...",
+				"RememberVoteWinner2": "DA GLASAŠ ZA",
+				"RememberVoteWinner3": "POBEDNIKA"
 			}
 		}
 	}
